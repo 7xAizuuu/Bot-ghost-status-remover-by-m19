@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🛒 EUWSHOP VALORANT",".gg/euwshop"];
+const statusMessages = ["🛒 EUWSHOP VALORANT","📍 .gg/euwshop"];
 
 
 let currentIndex = 0;
