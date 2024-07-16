@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🛒 BoostUP","📍 .gg/boostup"];
+const statusMessages = ["🛒 AMSHOP NITRO","📍 .gg/amshop"];
 
 
 let currentIndex = 0;
